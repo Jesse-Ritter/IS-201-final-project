@@ -1,0 +1,48 @@
+body{
+    background-color:cadetblue
+}
+.imagestyle{
+    Padding: 1px;
+    Max-width: 100%;
+    height: auto;
+    Width: 250px;
+    height: 250px;
+    Border-style:solid;
+    Border-width: 4px;
+    Border-color: #333;
+}
+
+.imagepos1{
+position: left;
+top:693px;
+}
+.imagepos2{ position: absolute;
+    top: 693px;
+    left: 610px
+}
+.imagepos3{ 
+    Position:absolute;
+    Top:693px;
+    Left: 1220px;
+
+}
+
+
+.bold {
+    font-weight:bold; font-style: normal  }
+
+    .underline {
+        text-decoration:underline
+    }
+.txtstyles{
+    padding: 2px;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color: #333;
+    }
+
+    .mtextstyle{
+        Color: #333;
+        text-decoration: underline
+    }
+
